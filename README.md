@@ -10,13 +10,7 @@ A personal collection of Python practice code written during self-study.
 
 ## ディレクトリ構成
 📁 python-practice/
-├── 📁 basics/          # 基礎文法・型・制御構文
-├── 📁 functions/       # 関数・クラス・モジュール
-├── 📁 libraries/       # よく使うライブラリの練習
-│   ├── pandas/
-│   ├── matplotlib/
-│   └── requests/
-├── 📁 mini-tools/      # 実用的な小さなスクリプト
+
 └── 📄 README.md
 
 
